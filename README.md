@@ -17,7 +17,7 @@ A table, contract_table, was provided and below is the meta data:
  
  Below is the output of the analysis:
  
- <img width="327" alt="final output" src="https://user-images.githubusercontent.com/88712885/233595969-5f81af24-422f-4c24-9565-6dc6a383065e.png">
+<img width="338" alt="final output" src="https://user-images.githubusercontent.com/88712885/233604376-7f57e0a5-8056-4134-9854-6879f4cd7971.png">
 
 ### Tools
 
