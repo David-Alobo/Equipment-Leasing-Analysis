@@ -7,7 +7,8 @@ Knowing the total number of contracts, new and used equipment leased on a monthl
 
 A table, contract_table, was provided and below is the meta data:
 
- | Title |-- | Description       |
+ | Title | Description       |
+ 
  | contract_id     | | contract_id of contracts created. More than one equipment can't have same contract_id |
  | customer_id     | | customer_id of the client the equipment was leased to |
  | engagement_date | | deployment date of the equipment or contract active date  |
