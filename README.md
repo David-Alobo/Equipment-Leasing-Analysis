@@ -1,9 +1,9 @@
 # Equipment-Leasing-Analysis
-This is an analysis of the number of contracts with new and refurbished equipment for an Equipment Leasing Company, MEL.
+The number of contracts for both new and used equipment for an equipment leasing company, MEL, was analyzed in this project.
 
 Monstrous Equipment Leasing Ltd (MEL) is a heavy equipment leasing company in Nigeria founded in December, 2022 with 20 employees. MEL offers clients brand-new equipment, but when the equipment is retrieved from clients after the end of each contract or default from clients, the equipment is refurbished and issued to client as new equipment.
 
-Knowing the total number of contracts, new and used equipment leased on a monthly basis with respect to the engagement date is a huge challenge for them.
+Knowing the total number of contracts, new and used equipment leased on a monthly basis with respect to the engagement date is a huge challenge for MEL.
 
 A table, contract_table, was provided and below is the meta data:
 
